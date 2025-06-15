@@ -1,0 +1,107 @@
+/* Reset some basic elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #0b0d3b; /* Navy Blue Background */
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Container that holds all cards */
+.container {
+  max-width: 1100px;
+  width: 100%;
+}
+
+.pricing {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Individual Card Styling */
+.card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 30px 20px;
+  width: 300px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Headings and Prices */
+.card h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.price {
+  font-size: 36px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.price sup {
+  font-size: 20px;
+  vertical-align: super;
+}
+
+.price span {
+  font-size: 16px;
+  color: #666;
+}
+
+.price-info {
+  margin-bottom: 5px;
+  color: #666;
+  font-size: 15px;
+}
+
+.main-text {
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #444;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background: linear-gradient(to right, #667eea, #764ba2); /* purple-blue gradient */
+}
+
+/* Features list */
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
