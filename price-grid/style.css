@@ -1,4 +1,4 @@
-/* Reset some basic elements */
+/* Reset and Base Styles */
 * {
   margin: 0;
   padding: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #0b0d3b; /* Navy Blue Background */
+  background-color: #0b0d3b; /* Navy blue */
   color: #333;
   display: flex;
   justify-content: center;
@@ -16,12 +16,18 @@ body {
   padding: 20px;
 }
 
-/* Container that holds all cards */
+/* Grey Background Behind Cards */
 .container {
   max-width: 1100px;
   width: 100%;
+  background-color: #f3f3f3;
+  border-radius: 20px;
+  padding: 60px 30px;
+  position: relative;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2);
 }
 
+/* Pricing Layout */
 .pricing {
   display: flex;
   gap: 20px;
@@ -29,19 +35,35 @@ body {
   flex-wrap: wrap;
 }
 
-/* Individual Card Styling */
+/* Card Styles */
 .card {
   background-color: #ffffff;
   border-radius: 12px;
   padding: 30px 20px;
   width: 300px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15);
   text-align: center;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  z-index: 2;
 }
 
 .card:hover {
   transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+/* Specific Card Shades Over Title */
+.card:nth-child(1) {
+  border-top: 5px solid #bdbdbd; /* Grey - Free */
+}
+
+.card:nth-child(2) {
+  border-top: 5px solid #e74c3c; /* Red - Pro */
+}
+
+.card:nth-child(3) {
+  border-top: 5px solid #3498db; /* Blue - Enterprise */
 }
 
 /* Headings and Prices */
@@ -63,7 +85,7 @@ body {
 
 .price span {
   font-size: 16px;
-  color: #666;
+  color: #474747;
 }
 
 .price-info {
@@ -82,8 +104,8 @@ body {
 .btn {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #333;
-  color: #fff;
+  background-color: #eeecec;
+  color: #ffffff;
   text-decoration: none;
   border-radius: 8px;
   font-weight: bold;
@@ -91,7 +113,7 @@ body {
 }
 
 .btn-primary {
-  background: linear-gradient(to right, #667eea, #764ba2); /* purple-blue gradient */
+  background: black;
 }
 
 /* Features list */
@@ -104,4 +126,17 @@ ul {
 li {
   margin-bottom: 10px;
   font-size: 14px;
+  position: relative;
+  padding-left: 24px;
+  color: #333;
+}
+
+/* ✅ Green check mark before each item */
+li::before {
+  content: '✔';
+  color: green;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: 0;
 }
