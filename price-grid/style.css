@@ -71,6 +71,26 @@ body {
   font-size: 24px;
   margin-bottom: 10px;
 }
+.free {
+  color: #888;
+  background-color: #f0f0f0;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.pro {
+  background: linear-gradient(to right, red,rgb(231, 56, 56), rgb(231, 94, 94));
+  padding: 5px 10px;
+  color: #fff; /* optional: for better contrast */
+  border-radius: 5px;
+  
+}
+.ent {
+  background: linear-gradient(to right, rgb(125, 55, 236),rgb(160, 111, 230), rgb(145, 151, 238));
+  padding: 5px 10px;
+  color: #fff; 
+  border-radius: 5px;
+  
+}
 
 .price {
   font-size: 36px;
@@ -100,12 +120,13 @@ body {
   color: #444;
 }
 
+
 /* Buttons */
-.btn {
+.btn-1 {
   display: inline-block;
   padding: 10px 20px;
   background-color: #eeecec;
-  color: #ffffff;
+  color: #141414;
   text-decoration: none;
   border-radius: 8px;
   font-weight: bold;
@@ -113,7 +134,14 @@ body {
 }
 
 .btn-primary {
-  background: black;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #000000;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
 /* Features list */
