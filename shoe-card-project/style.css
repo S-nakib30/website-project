@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(221, 221, 221);
+}
+.container{
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 0 20px;
+}
+
+.card{
+    background-color: #fff;
+    margin: 20px 0;
+    padding: 20px 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card h2{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.card p{
+    font-size: 20px;
+    font-weight: 500px;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.card-sporty h2{
+color:#e04553 ;
+}
+
+.card-casual h2{
+color: #763bff; ;
+}
+
+.card-formal h2{
+color:#512b22 ;
+}
+
+.card a{
+    text-decoration : none;
+    color: #fff;
+    background-color: #333;
+    padding: 10px 20px ;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.card a:hover{
+opacity: 0.9;
+color: #e04553;
+background-color: rgb(164, 164, 255);
+}
+.card-sporty a{
+    background-color: #e04553;
+}
+
+.card-casual a{
+    background-color: #763bff;
+}
+
+.card-formal a{
+    background-color: #512b22 ;
+}
+/* bg image add*/
+.card-sporty{
+   background: #fff url("sporty.jpg") no-repeat center right;
+   background-size: 280px;
+
+}
+
+.card-casual{
+   background: #fff url("casual.jpg") no-repeat center right;
+   background-size: 250px;
+
+}
+
+.card-formal{
+   background: #fff url("formal.jpg") no-repeat center right;
+   background-size: 250px;
+
+}
