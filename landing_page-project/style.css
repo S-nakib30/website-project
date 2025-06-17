@@ -1,0 +1,4 @@
+.button-container {
+  display: flex;      /* Arrange children in a horizontal row */
+  gap: 10px;          /* Optional spacing between buttons */
+}
