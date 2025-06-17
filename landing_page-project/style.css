@@ -1,3 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto',sans-serif;
+    background: black;
+    color: white;
+    line-height: 1.6;
+}
+
+.wrapper {
+    height: 120vh;
+    background: 
+        linear-gradient(
+            to bottom,
+            rgba(255, 64, 50, 0.9),
+            rgba(71, 17, 116, 0.9)
+        ),
+        url('/images/background.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+
+}
+.header .logo{
+    width: 100px;
+
+}
+
+.header .header-right{
+display: flex;
+align-items: center;
+gap: 25px;
+}
+
+.header .header-right i{
+    margin-right: 5px;
+
+}
+
+.header .header-right a{
+    color: white;
+}
+
+.header .header-right a:hover{
+    color:rgb(207, 70, 241) ;
+}
+
 .button-container {
   display: flex;      /* Arrange children in a horizontal row */
   gap: 10px;          /* Optional spacing between buttons */
