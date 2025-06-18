@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root{
+    --primary-color:#fcf5e9;
+    --conatainer-normal:1100px;
+    --container-wide: 1400px;
+    --container-narrow:900px;
+}
 
 body{
     font-family: 'Roboto', sans-serif;
@@ -22,16 +28,16 @@ img{
     max-width: 100%;
 }
 .bg-primary{
-    background-color: #fcf5e9;
+    background: var(--primary-color);
 }
 .conateiner {
     display: flex;
-max-width: 1100ox;
+max-width: var(--conatainer-normal);
 margin: 0 auto;
 padding: 0 1.5rem;
 }
 .conateiner-lg{
-    max-width: 1400px;
+    max-width: var(--conatainer-wide);
 }
 
 .conateiner-sm{
@@ -82,15 +88,61 @@ align-items: center;
     font-weight: normal;
 }
 
+.gallery-flex {
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 20px;
+}
 
+.gallery-item {
+    width: calc(33.333% - 20px);
+    border-radius: 8px;
+  
+} 
+.container  .gallery-flex {
+   flex: 1 1calc(33.333% - 20px);
+}
+.gallery-item img{
+    border-radius: 10px;
+}
 
+.gallery-item:hover{
+    opacity: 0.9;
+}
+/*footer style */
+.footer{
+    border-top: 1px solid #aaa;
+    padding: 2rem 1.5rem;
+    margin-top: 2rem;
+}
 
+.footer .footer-flex{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.footer img{
+    width: 120px;
+    height: 35px;
+}
+
+.footer h4{
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.footer a{
+    margin: 0.2rem;
+
+}
 @media(max-width: 768px){
-    .header .header-flex{
+    .header .header-flex,
+    .footer .footer-flex{
         flex-direction: column;
         gap: 1.5rem;
     }
-}
 
 .hero{
     height: 300px;
@@ -99,3 +151,14 @@ align-items: center;
 .hero h2{
     font-size: 1.8rem;
 }
+.gallery-item{
+width: calc(50% - 20ox);
+}
+
+.footer .footer-flex{
+text-align: centre;
+}
+
+
+}
+
