@@ -3,8 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const mobileMenu = document.querySelector('.mobile_menu_item');
 
   toggleButton.addEventListener('click', function () {
-    mobileMenu.classList.toggle('active'); // You can style `.active` in CSS
-  });
+    mobileMenu.classList.toggle('active'); 
 });
 
 WebTransportBidirectionalStream.addEventListener('scroll', function(){
