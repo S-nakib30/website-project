@@ -10,4 +10,5 @@
 ### Project 1:  landing page
 ![Screenshot]("E:\Website Project\image-ss\Bono landing page.png")
 - **Live URL:** [https://bono-landingpage.netlify.app/]
-- **GitHub Repo:** [Project 1 Folder](./Project-1-BEM-Leno)
+- **GitHub Repo:** landing_page-project
+- 
