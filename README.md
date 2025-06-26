@@ -14,7 +14,8 @@
 
 
 ### Project 1:  landing page
-![Screenshot]("image-ss/Bono landing page.png")
+(![Screenshot](image-ss/Bono%20landing%20page.png)
+)
 - **Live URL:** [https://bono-landingpage.netlify.app/]
 - **GitHub Repo:** website-project
 /landing_page-project/
