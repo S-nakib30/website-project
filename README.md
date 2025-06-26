@@ -23,7 +23,7 @@
 
   ------
   ### Project 2:  Price Grid
-![Screenshot]("E:\Website Project\image-ss\Bono landing page.png")
+![Screenshot]("image-ss/pricegrid.png")
 - **Live URL:** [https://price-grid-demo.netlify.app/]
 - **GitHub Repo:** [price-grid]
 ------
