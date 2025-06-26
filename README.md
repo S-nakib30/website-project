@@ -29,27 +29,27 @@
 ------
 
  ### Project 3:  Shoe Card Project
-![Screenshot]("E:\Website Project\image-ss\Bono landing page.png")
+![Screenshot](https://github.com/S-nakib30/website-project/blob/2cb1bc2deeb28ea7d048b5830b6214041bda08e3/image-ss/shoecard.png)
 - **Live URL:** [https://shoe-card-demo.netlify.app/]
 - **GitHub Repo:** [shoe-card-project] 
 ------
 
 ### Project 4:  Free lance form design
-![Screenshot]("E:\Website Project\image-ss\Bono landing page.png")
+![Screenshot](https://github.com/S-nakib30/website-project/blob/2cb1bc2deeb28ea7d048b5830b6214041bda08e3/image-ss/freelanch%20form.png)
 - **Live URL:** [https://freelance-form-d.netlify.app/]
 - **GitHub Repo:** [freelance-form-mini] 
 ------
 
 
 ### Project 5: Lumina Website project
-![Screenshot]("E:\Website Project\image-ss\Bono landing page.png")
+![Screenshot](https://github.com/S-nakib30/website-project/blob/2cb1bc2deeb28ea7d048b5830b6214041bda08e3/image-ss/lumina.png)
 - **Live URL:** [https://lumina-website-demo.netlify.app/]
 - **GitHub Repo:** [lumina_website-project] 
 ------
 
 
 ### Project 6: Tutor website project
-![Screenshot]("E:\Website Project\image-ss\Bono landing page.png")
+![Screenshot](https://github.com/S-nakib30/website-project/blob/2cb1bc2deeb28ea7d048b5830b6214041bda08e3/image-ss/tutor.png)
 - **Live URL:** [https://tutor-demo-website.netlify.app/]
 - **GitHub Repo:** [Tutor_website-project] 
 ------
