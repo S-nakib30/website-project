@@ -8,4 +8,4 @@
 -Project 6: Tutor website project
 
 ### Project 1:  landing page
-![Screenshot]("E:\Website Project - Copy\image\Bono landing page.png")
+![Screenshot]("E:\Website Project\image-ss\Bono landing page.png")
