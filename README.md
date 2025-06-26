@@ -23,7 +23,7 @@
 
   ------
   ### Project 2:  Price Grid
-![Screenshot]("image-ss/pricegrid.png")
+![Screenshot](https://github.com/S-nakib30/website-project/blob/49ca61b0edaa4d31ec753584d7b9ec579ffb538b/image-ss/pricegrid.png)
 - **Live URL:** [https://price-grid-demo.netlify.app/]
 - **GitHub Repo:** [price-grid]
 ------
