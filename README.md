@@ -16,7 +16,9 @@
 ### Project 1:  landing page
 ![Screenshot]("E:\Website Project\image-ss\Bono landing page.png")
 - **Live URL:** [https://bono-landingpage.netlify.app/]
-- **GitHub Repo:** landing_page-project
+- **GitHub Repo:** website-project
+/landing_page-project/
+
 
   ------
   ### Project 2:  Price Grid
