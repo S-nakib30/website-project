@@ -16,7 +16,7 @@
 ### Project 1:  landing page
 (![Screenshot](image-ss/Bono%20landing%20page.png)
 )
-- **Live URL:** [https://bono-landingpage.netlify.app/]
+- **Live URL:** [https://landing-page-d.netlify.app/]
 - **GitHub Repo:** [https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/landing_page-project]
 
 
@@ -35,7 +35,7 @@
 
 ### Project 4:  Free lance form design
 ![Screenshot](https://github.com/S-nakib30/website-project/blob/2cb1bc2deeb28ea7d048b5830b6214041bda08e3/image-ss/freelanch%20form.png)
-- **Live URL:** [https://freelance-form-d.netlify.app/]
+- **Live URL:** [https://freelance-form-mini.netlify.app/]
 - **GitHub Repo:** [https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/freelance-form-mini] 
 ------
 
