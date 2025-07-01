@@ -43,35 +43,65 @@
         </li>
       </ul>
     </div>
-    <!--mobile navigation -->
-   <div class="mobile-menu">
-    <div class="mobile-menu-toggle">
-      <i class="fas fa-bars fa-2x"></i>
-    </div>
-    <!--movile navigation bar-->
-    <div class="mobile-menu-items active ">
-      <ul class="mobile-menu-list">
-        <li><a href="#home">Home</a></li>
-        <li><a href="#chapters">Chapters</a></li>
-        <li><a href="#summary">Summary</a></li>
-        <li><a href="#author">Author</a></li>
-        <li><a href="#contact">Contact</a></li>
-        <li>
-          <a href="https://facebook.com" target="_blank">
-            <i class="fa-brands fa-facebook"></i>
-          </a>
-        </li>
-        <li>
-          <a href="https://twitter.com" target="_blank">
-            <i class="fa-brands fa-twitter"></i>
-          </a>
-        </li>
-      </ul>
-    </div>
- 
-   </div>
-  </div>
-</nav>
+   <!--mobile navigation -->
+   <!-- Mobile Menu -->
+        <div class="mobile-menu">
+          <!-- Hamburger button -->
+          <div
+            class="mobile-menu-toggle"
+            role="button"
+            aria-expanded="false"
+            aria-controls="mobile-menu-items"
+            aria-label="Open mobile menu"
+            tabindex="0"
+          >
+            <i class="fas fa-bars fa-2x"></i>
+          </div>
+          <!-- Mobile Menu Items -->
+          <div id="mobile-menu-items" class="mobile-menu-items">
+            <ul class="mobile-menu-list">
+              <li>
+                <a href="index.html">Home</a>
+              </li>
+              <li>
+                <a href="#chapters">Chapters</a>
+              </li>
+              <li>
+                <a href="#summary">Summary</a>
+              </li>
+              <li>
+                <a href="#takeaways">Takeaways</a>
+              </li>
+              <li>
+                <a href="#author">Author</a>
+              </li>
+              <li>
+                <a href="contact.html">Contact</a>
+              </li>
+              <li>
+                <a
+                  href="https://facebook.com"
+                  target="_blank"
+                  aria-label="Follow Us On Facebook"
+                >
+                  <i class="fa-brands fa-facebook"></i>
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://twitter.com"
+                  target="_blank"
+                  aria-label="Follow Us On Twitter"
+                >
+                  <i class="fa-brands fa-twitter"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+
     <!-- Inner Header -->
     <header class="inner-header">
       <div class="container-sm">
@@ -86,7 +116,7 @@
           medium sized word companies. 
         </p>
 
-        <form action="https://formspree.io/f/myyrqerl" method="POST">
+        <form class="formcontact"action="https://formspree.io/f/myyrqerl" method="POST">
           <input type="text" name="name" placeholder="Name" />
           <input type="email" name="email" placeholder="Email" />
           <textarea name="message" placeholder="Message"></textarea>
@@ -135,12 +165,7 @@
             aria-label="Follow Us On Instagram"
             ><i class="fa-brands fa-instagram fa-2x"></i>
           </a>
-          <a
-            href="https://linkdin.com"
-            target="_blank"
-            aria-label="Follow Us On Linkdin"
-            ><i class="fa-brands fa-linkedin fa-2x"></i>
-          </a>
+          
           <a
             href="https://youtube.com"
             target="_blank"
@@ -148,13 +173,7 @@
           >
             <i class="fa-brands fa-youtube fa-2x"></i>
           </a>
-          <a
-            href="https://pinterest.com"
-            target="_blank"
-            aria-label="Follow Us On Pinterest"
-          >
-            <i class="fa-brands fa-pinterest fa-2x"></i>
-          </a>
+
         </div>
       </div>
     </section>
@@ -167,10 +186,9 @@
           <li><a href="#">Privacy</a></li>
           <li><a href="contact.html">Contact</a></li>
         </ul>
-        <p>&copy; 2024 - 2025 Tutor. All rights reserved</p>
+        <p>showcasing project@reserved</p>
       </div>
-    </footer>
-
-    <script src="js/script.js"></script>
+      </footer>
+    <script src="script.js"></script>
   </body>
 </html>

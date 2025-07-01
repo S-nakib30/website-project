@@ -9,6 +9,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <title>Tutor website</title>
     <link rel="stylesheet" href="style.css">
+     <link rel="icon" href="images/favicon.png" />
 
 </head>
 <body>
@@ -35,34 +36,64 @@
       </ul>
     </div>
     <!--mobile navigation -->
-   <div class="mobile-menu">
-    <div class="mobile-menu-toggle">
-      <i class="fas fa-bars fa-2x"></i>
-    </div>
-    <!--movile navigation bar-->
-    <div class="mobile-menu-items active ">
-      <ul class="mobile-menu-list">
-        <li><a href="#home">Home</a></li>
-        <li><a href="#chapters">Chapters</a></li>
-        <li><a href="#summary">Summary</a></li>
-        <li><a href="#author">Author</a></li>
-        <li><a href="#contact">Contact</a></li>
-        <li>
-          <a href="https://facebook.com" target="_blank">
-            <i class="fa-brands fa-facebook"></i>
-          </a>
-        </li>
-        <li>
-          <a href="https://twitter.com" target="_blank">
-            <i class="fa-brands fa-twitter"></i>
-          </a>
-        </li>
-      </ul>
-    </div>
+   <!-- Mobile Menu -->
+        <div class="mobile-menu">
+          <!-- Hamburger button -->
+          <div
+            class="mobile-menu-toggle"
+            role="button"
+            aria-expanded="false"
+            aria-controls="mobile-menu-items"
+            aria-label="Open mobile menu"
+            tabindex="0"
+          >
+            <i class="fas fa-bars fa-2x"></i>
+          </div>
+          <!-- Mobile Menu Items -->
+          <div id="mobile-menu-items" class="mobile-menu-items">
+            <ul class="mobile-menu-list">
+              <li>
+                <a href="/">Home</a>
+              </li>
+              <li>
+                <a href="#chapters">Chapters</a>
+              </li>
+              <li>
+                <a href="#summary">Summary</a>
+              </li>
+              <li>
+                <a href="#takeaways">Takeaways</a>
+              </li>
+              <li>
+                <a href="#author">Author</a>
+              </li>
+              <li>
+                <a href="contact.html">Contact</a>
+              </li>
+              <li>
+                <a
+                  href="https://facebook.com"
+                  target="_blank"
+                  aria-label="Follow Us On Facebook"
+                >
+                  <i class="fa-brands fa-facebook"></i>
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://twitter.com"
+                  target="_blank"
+                  aria-label="Follow Us On Twitter"
+                >
+                  <i class="fa-brands fa-twitter"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
 
-   </div>
-  </div>
-</nav>
 
 <header class="hero">
   <div class="container hero-flex">
@@ -88,42 +119,42 @@
   <div class="grid">
     <div class="course-img">
       <img src="/images/description-1.jpg " alt="course">
-      <P class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, itaque.</P>
+      <P class="description">Set Clear Objectives and Goals</P>
     </div>
 
     <div class="course-img">
       <img src="/images/description-2.jpg " alt="course">
-      <P class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, itaque.</P>
+      <P class="description">Plan Layout And Design Elements</P>
     </div>
 
     <div class="course-img">
       <img src="/images/description-3.jpg " alt="course">
-      <P class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, itaque.</P>
+      <P class="description">Sketch Creative Concepts</P>
     </div>
 
     <div class="course-img">
       <img src="/images/description-4.jpg " alt="course">
-      <P class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, itaque.</P>
+      <P class="description">Establish Strong Call-to-Actions</P>
     </div>
 
     <div class="course-img">
       <img src="/images/description-5.jpg " alt="course">
-      <P class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, itaque.</P>
+      <P class="description">Choose High-Quality Templates</P>
     </div>
 
     <div class="course-img">
       <img src="/images/description-6.jpg " alt="course">
-      <P class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, itaque.</P>
+      <P class="description">Create Impressive Layout Previews</P>
     </div>
 
     <div class="course-img">
       <img src="/images/description-7.jpg " alt="course">
-      <P class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, itaque.</P>
+      <P class="description">Master Landing Page Coding</P>
     </div>
 
     <div class="course-img">
       <img src="/images/description-8.jpg " alt="course">
-      <P class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, itaque.</P>
+      <P class="description">Launch Your Project Successfully</P>
     </div>
   </div>
 </section>
@@ -162,7 +193,7 @@
 <!--summary section-->
 <section class="summary" id="summary">
 <div class="container">
-  <div class="section-heading">
+  <div class="section-header">
     <h2 class="sum">Course Summary</h2>
     <div class="heading-border"></div>
   </div>
@@ -316,7 +347,7 @@
      <p class="section-intro"> Gain insight into the course curriculum, structure, and what to
             expect throughout your learning journey.
 </p>
-    <div class="heading-border">
+   
 
 <a href="#" class="btn">See Details</a>
     </div>
@@ -396,7 +427,7 @@
 <!---newsletter-->
 <section class="newsletter section" id="newletter">
   <div class="container newsletter-flex">
-    <h2>subscribe to newsletter</h2>
+    <h2>Subscribe to Newsletter</h2>
     <p>Stay updated with the latest news, offers, and insights from our
           platform.</p>
   <form>
@@ -446,6 +477,7 @@
         </ul>
         <p>showcasing project@reserved</p>
       </div>
+      </footer>
 <script src="script.js"></script>
 </body>
 </html>
