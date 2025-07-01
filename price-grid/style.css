@@ -144,6 +144,14 @@ body {
   margin-bottom: 20px;
 }
 
+.btn-1:hover{
+  color: white;
+  background-color: #ff0000;
+}
+.btn-primary:hover{
+  color: #000000;
+  background-color: rgb(232, 15, 15);
+}
 /* Features list */
 ul {
   list-style: none;
@@ -155,11 +163,11 @@ li {
   margin-bottom: 10px;
   font-size: 14px;
   position: relative;
-  padding-left: 24px;
+ 
   color: #333;
 }
 
-/* ✅ Green check mark before each item */
+
 li::before {
   content: '✔';
   color: green;
@@ -167,4 +175,5 @@ li::before {
   position: absolute;
   left: 0;
   top: 0;
+  padding: 0 50px;
 }

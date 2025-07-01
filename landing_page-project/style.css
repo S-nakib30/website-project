@@ -55,7 +55,8 @@ gap: 25px;
 
 .button-container {
   display: flex;      
-  gap: 10px;          
+  gap: 20px;   
+ justify-content: center;     
 }
 .button-container .submit {
     width: 150px;
@@ -70,17 +71,18 @@ gap: 25px;
     background-position: left;
     cursor: pointer;
     transition: background-position 0.5s ease, transform 0.2s ease;
+    justify-content: center;
 }
 
 .button-container .submit:hover {
     background-position: right;
-    transform: scale(1.05); /* slightly enlarges on hover */
+    transform: scale(1.05); 
 }
 .main-content{
     display: flex;
     gap: 50px;
     max-width: 1100 px;
-    margin: 200px auto;
+    margin: 100px auto;
     justify-content: center;
     align-items: start;
     height: 100%;
@@ -141,6 +143,9 @@ line-height: 1.2
         flex-direction: column;
         gap: 10px
     }
+    .header .logo {
+        width: 170px; 
+    }
 .main-content{
     flex-direction: column-reverse;
     justify-content: start;
@@ -148,6 +153,16 @@ line-height: 1.2
     padding: 50px;
 
 }
+    .header-right .social-icons {
+        display: flex;
+        gap: 15px;
+        justify-content: center;
+        
+    }
+
+    .header-right .social-icons a {
+        font-size: 20px;
+    }
 .main-content form,
 .main-content .text-container{
     width: 100%;
@@ -156,7 +171,6 @@ line-height: 1.2
 font-size: 40px;
 text-align: center;
 line-height: 1.4;
-
 }
 .main-content p{
 display: none;
