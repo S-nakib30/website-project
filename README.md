@@ -52,3 +52,8 @@
 - **Live URL:** [https://tutor-demo-website.netlify.app/]
 - **GitHub Repo:** [https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/Tutor_website-project] 
 ------
+### Project 7: Leno website project
+![Screenshot](https://github.com/S-nakib30/website-project/blob/78ff444552146316efc64a1ca48ce0596cc6e72e/image-ss/leno.png)
+- **Live URL:** [https://leno-app-demo.netlify.app/]
+- **GitHub Repo:** [https://github.com/S-nakib30/website-project/tree/78ff444552146316efc64a1ca48ce0596cc6e72e/leno-website-project] 
+------
