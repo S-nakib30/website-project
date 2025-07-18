@@ -29,7 +29,7 @@
   ------
   ### Project 2:  Price Grid
 ![Screenshot](https://github.com/S-nakib30/website-project/blob/49ca61b0edaa4d31ec753584d7b9ec579ffb538b/image-ss/pricegrid.png)
-- **Live URL:** [View Project 2](https://price-grid-demo.netlify.app/)
+- **Live URL:** [View Project 2 Live](https://price-grid-demo.netlify.app/)
 - **GitHub Repo:** [Project 2 Repository](https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/price-grid)
 ------
 
@@ -55,7 +55,7 @@
 
 ### Project 6: Tutor Website Project
 ![Screenshot](https://github.com/S-nakib30/website-project/blob/e204b6d3fe4d8f99150c03e0dcbd3189bb6a7538/image-ss/tutor_f.png)
-- **Live URL:** [View Project 3 Live]( https://tutor-website-showcasing.netlify.app/)
+- **Live URL:** [View Project 6 Live]( https://tutor-website-showcasing.netlify.app/)
 - **GitHub Repo:** [Project 6 Repository](https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/Tutor_website-project)
 ------
 
