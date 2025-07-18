@@ -65,3 +65,6 @@
 - **GitHub Repo:**[Project 7 Repository](https://github.com/S-nakib30/website-project/tree/388b809092d81a742a6f1f169ebe9ec40abca46d/leno-website-project)
 ------
 
+### LICENSE
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/S-nakib30/website-project/blob/50aa49a9c0e567ce92636e5804aed301849d386b/LICENSE) file for details.
+
