@@ -30,13 +30,13 @@
   ### Project 2:  Price Grid
 ![Screenshot](https://github.com/S-nakib30/website-project/blob/49ca61b0edaa4d31ec753584d7b9ec579ffb538b/image-ss/pricegrid.png)
 - **Live URL:** [View Project 2](https://price-grid-demo.netlify.app/)
-- **GitHub Repo:** [Project 2 Repository](Project 2 Repository](phttps://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/price-grid)
+- **GitHub Repo:** [Project 2 Repository](phttps://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/price-grid)
 ------
 
  ### Project 3:  Shoe Card Project
 ![Screenshot](https://github.com/S-nakib30/website-project/blob/2cb1bc2deeb28ea7d048b5830b6214041bda08e3/image-ss/shoecard.png)
 - **Live URL:** [View Project 3 live](https://shoe-card-demo.netlify.app/)
-- **GitHub Repo:** [Project 3 Repository] (https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/shoe-card-project)
+- **GitHub Repo:** [Project 3 Repository](https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/shoe-card-project)
 ------
 
 ### Project 4:  Freelance Form Design
