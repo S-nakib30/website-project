@@ -47,20 +47,20 @@
 
 
 ### Project 5: Lumina Website Project
-![Screenshot](https://github.com/S-nakib30/website-project/blob/2cb1bc2deeb28ea7d048b5830b6214041bda08e3/image-ss/lumina.png)
+![Screenshot](https://github.com/S-nakib30/website-project/blob/e204b6d3fe4d8f99150c03e0dcbd3189bb6a7538/image-ss/lumina_f.png)
 - **Live URL:** [View Project 5 Live]( https://lumina-website-showcasing.netlify.app/)
 - **GitHub Repo:** [Project 5 Repository](https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/lumina_website-project)
 ------
 
 
 ### Project 6: Tutor Website Project
-![Screenshot](https://github.com/S-nakib30/website-project/blob/2cb1bc2deeb28ea7d048b5830b6214041bda08e3/image-ss/tutor.png)
+![Screenshot](https://github.com/S-nakib30/website-project/blob/e204b6d3fe4d8f99150c03e0dcbd3189bb6a7538/image-ss/tutor_f.png)
 - **Live URL:** [View Project 3 Live]( https://tutor-website-showcasing.netlify.app/)
 - **GitHub Repo:** [Project 6 Repository](https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/Tutor_website-project)
 ------
 
 ### Project 7: BEM Website LENO
-![Screenshot]()
+![Screenshot](https://github.com/S-nakib30/website-project/blob/e204b6d3fe4d8f99150c03e0dcbd3189bb6a7538/image-ss/leno_f.png)
 - **Live URL:** [View Project 7 Live]( https://leno-project-showcase.netlify.app/details)
 - **GitHub Repo:**[Project 7 Repository](https://github.com/S-nakib30/website-project/tree/388b809092d81a742a6f1f169ebe9ec40abca46d/leno-website-project)
 ------
