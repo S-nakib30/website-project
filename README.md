@@ -1,16 +1,15 @@
-# Modern HTML CSS From The Beginning Course \
-## 📚 Table of Contents
--Project 1 : landing page
+# Modern HTML CSS From The Beginning Course 
 
--Project 2 :Price Grid]
 
--Project 3 :Shoe Card Project
 
--Project 4:Free lance form design
+## Table of Contents 📚
 
--Project 5:Lumina Website project
+- [Project 1: BEM Website Leno](#project-1-bem-website-leno)
+- [Project 2: Tutor Website](#project-2-tutor-website)
+- [Project 3: Lumina Creative](#project-3-lumina-creative)
+- [Project 4: Bono Landing Page](#project-4-bono-landing-page)
+- [License](#license)
 
--Project 6: Tutor website project
 
 
 ### Project 1:  landing page
