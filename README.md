@@ -4,19 +4,24 @@
 
 ## Table of Contents 📚
 
-- [Project 1: BEM Website Leno](#project-1-bem-website-leno)
+- [Project 1: Bono Landing Page](#project-4-bono-landing-page)
 - [Project 2: Tutor Website](#project-2-tutor-website)
 - [Project 3: Lumina Creative](#project-3-lumina-creative)
-- [Project 4: Bono Landing Page](#project-4-bono-landing-page)
+- [Project 4: BEM Website Leno](#project-1-bem-website-leno) 
 - [License](#license)
+
+
+  ------
+  ------
+  ------
 
 
 
 ### Project 1:  landing page
 ![Screenshot](image-ss/Bono%20landing%20page.png)
 
-- **Live URL:** [https://landing-page-d.netlify.app/]
-- **GitHub Repo:** [https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/landing_page-project]
+- **Live URL:**  [View Project 1 live:](https://landing-page-d.netlify.app/)
+- **GitHub Repo:** [Project 1 Repository](https://github.com/S-nakib30/website-project/tree/5eccf1a3cb51a4690c49683893be26d22df2ffb4/landing_page-project)
 
 
   ------
