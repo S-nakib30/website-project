@@ -61,7 +61,7 @@
 
 ### Project 7: BEM Website LENO
 ![Screenshot](https://github.com/S-nakib30/website-project/blob/e204b6d3fe4d8f99150c03e0dcbd3189bb6a7538/image-ss/leno_f.png)
-- **Live URL:** [View Project 7 Live]( https://leno-project-showcase.netlify.app/details)
+- **Live URL:** [View Project 7 Live](https://leno-project-showcase.netlify.app/)
 - **GitHub Repo:**[Project 7 Repository](https://github.com/S-nakib30/website-project/tree/388b809092d81a742a6f1f169ebe9ec40abca46d/leno-website-project)
 ------
 
