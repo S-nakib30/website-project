@@ -919,7 +919,9 @@ text-align: center;
     gap: 3rem;
     max-width: 600px;
   }
-
+ .pg{
+padding-right: 3rem;
+}
 
 }
 
@@ -973,7 +975,6 @@ text-align: center;
 flex-direction:column;
   text-align:center;
   }
-
 
 
 
